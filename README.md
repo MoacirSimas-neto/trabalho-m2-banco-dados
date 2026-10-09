@@ -27,7 +27,6 @@ O banco possui quatro tabelas principais:
 
 ### Relacionamentos
 
-text
 UNIDADE  ─────┐
               │
 PRODUTO  ─────┼──> VENDA
